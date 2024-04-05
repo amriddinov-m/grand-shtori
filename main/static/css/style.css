@@ -4808,7 +4808,7 @@ body.admin-bar .header-area.style-7 {
 .slider-area .single-slider .slider-btn-wrapper {
   display: flex;
   align-items: center;
-  gap: 20px;
+  /*gap: 20px;*/
   margin-bottom: 58px;
   position: relative;
   z-index: 1;
